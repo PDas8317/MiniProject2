@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(192, 207, 177);
+    text-align: center;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 200px;
+    border: 6px solid black;
+    border-radius: 20%;
+    margin: 2rem;
+    font-weight: 700;
+}
+
+.pink {
+    background-color: rgb(233, 61, 90);
+}
+
+.blue {
+    background-color: rgb(78, 207, 236);
+}
+
+.orange {
+    background-color: rgb(233, 148, 29);
+}
+
+.green {
+    background-color: rgb(86, 221, 86);
+}
+
+.flashBtn {
+    background-color: white;
+}
+
+.userFlash {
+    background-color: rgb(35, 4, 148);
+}
